@@ -4,7 +4,7 @@ Bhargav Gorantla
 
 The goal of this project is multifaceted. One goal is to train models that can predict a populations longevity based on its attributes like thinness, alcohol consumption, etc. The second goal is to apply these models to individuals to calcualte their longevity.
 
-Answering how long a person will live can be very useful to insurance companies and even individuals.
+Answering how long a person will live can be very useful to insurance companies and even individuals to predict their own lifespan.
 
 The data used to train these models: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
 This data is sourced from WHO and contains various attributes of the populace of different countries from the years 2000 to 2015.

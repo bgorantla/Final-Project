@@ -21,6 +21,8 @@ Alcohol consumption is the sixth most important feature.
 The least three important features are the prevalence of various diseases like Polio and Hepatitis B.  
 The reason these diseases don't affect the longevity of a region too much is because they are not fatal unlike HIV/AIDS.
 
+Out of the trained models, DecisionTree model had the lowest error and would be the best model to use for future predictions.
+
 In the final review and report, I will go through the same data and show more observations/conclusions to supplement the conslusions in this project.
 
 - Link to notebook - https://github.com/bgorantla/Final-Project/blob/main/Final_Project.ipynb
